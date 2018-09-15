@@ -1,0 +1,2 @@
+# swift
+REDAXO Swiftmailer AddOn
